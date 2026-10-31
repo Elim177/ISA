@@ -1,0 +1,2450 @@
+{
+  "metadata": {
+    "title": "Aggregate codebook without participant identifiers",
+    "scope": "Updated aggregate codebook categories and counts only; names, participant IDs and raw response sheets excluded.",
+    "verification": "Supplied counts and source verification flags retained. Partial ID lists must not be treated as complete membership. Counts were not recoded from transcripts.",
+    "participant_count": 34
+  },
+  "records": [
+    {
+      "question": "Q01-04 Sample",
+      "category": "Role: Undergraduate students",
+      "supplied_count": 8,
+      "list_recount": 8,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Role: Graduate students",
+      "supplied_count": 19,
+      "list_recount": 19,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Role: Professional roles",
+      "supplied_count": 7,
+      "list_recount": 7,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Experience: 0-1 years",
+      "supplied_count": 17,
+      "list_recount": 17,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Experience: 2-3 years",
+      "supplied_count": 7,
+      "list_recount": 7,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Experience: 1-2 years",
+      "supplied_count": 5,
+      "list_recount": 5,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Experience: 4-5 years",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Experience: 3-4 years",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Experience: More than five years",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Age: 25-34",
+      "supplied_count": 12,
+      "list_recount": 12,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Age: 18-24",
+      "supplied_count": 19,
+      "list_recount": 19,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Age: 35-44",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Gender: Female",
+      "supplied_count": 15,
+      "list_recount": 15,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q01-04 Sample",
+      "category": "Gender: Male",
+      "supplied_count": 19,
+      "list_recount": 19,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "no activity including commits and posting",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "no cross platform identification",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "no one with any proxy would be able to immeadiately identify the person based on account information",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "not being able to trace back an acccount to the real person",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "not sharing identifying info like name, bio, email, phone number, picture",
+      "supplied_count": 22,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "separation of real life and online identities",
+      "supplied_count": 2,
+      "list_recount": 4,
+      "difference": 2,
+      "verification": "DIFFERS from supplied count",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "unfindable when searched by name and location",
+      "supplied_count": 2,
+      "list_recount": 1,
+      "difference": -1,
+      "verification": "DIFFERS from supplied count",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "untraceable to name and picture",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q05 Definitions",
+      "category": "unverified account",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Name",
+      "supplied_count": 19,
+      "list_recount": 19,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Location",
+      "supplied_count": 18,
+      "list_recount": 18,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Email",
+      "supplied_count": 13,
+      "list_recount": 13,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Picture",
+      "supplied_count": 14,
+      "list_recount": 14,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Phone number",
+      "supplied_count": 12,
+      "list_recount": 12,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Birthday",
+      "supplied_count": 4,
+      "list_recount": 4,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Gender",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Last name",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Age",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Job Position",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Company",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Username",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q06 Protected cues",
+      "category": "Education",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "an image is a unique identifier",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "as they are being used for official accounts as well",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "avoid a lead to identify me in the real world",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "avoiding conflicts and unwanted contacts",
+      "supplied_count": 6,
+      "list_recount": 6,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "avoid cross platform identification",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "can be used to narrow down a more accurate identification",
+      "supplied_count": 7,
+      "list_recount": 7,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "my name is popular and does not matter",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "not being identifiable on google search",
+      "supplied_count": 2,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "not being limited to a bubble",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "personal privacy preference",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "to not be easily accessibile",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "to prohibit people from finding out your identity",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "uniqueness of my name",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q07 Cue reasons",
+      "category": "so that it cant be traced back to real life",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "N/A",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "avoid typecasting",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "dont wish to associate activity with identity which can judge me negativley",
+      "supplied_count": 5,
+      "list_recount": 5,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "inappopriate activites",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "not engaging with any content",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "to avoid heated topics",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "to avoid repercussions",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "unintentional anonymity because of my limited activity",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when I am disclosing opinions on my company",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when I am working on low quality projects",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when answering questions",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when asking questions",
+      "supplied_count": 15,
+      "list_recount": 15,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when browsing",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when committing to repos",
+      "supplied_count": 5,
+      "list_recount": 5,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when downvoting",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when interacting with people",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when posting issues",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when upvoting",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q08 Activities",
+      "category": "when working on propriority software",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q09 Interaction factors",
+      "category": "content richness over profile",
+      "supplied_count": 22,
+      "list_recount": 22,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q09 Interaction factors",
+      "category": "educational background matters",
+      "supplied_count": 6,
+      "list_recount": 6,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q09 Interaction factors",
+      "category": "peer anonymity influence",
+      "supplied_count": 7,
+      "list_recount": 7,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q09 Interaction factors",
+      "category": "post engagement",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q09 Interaction factors",
+      "category": "profile engagement richness",
+      "supplied_count": 6,
+      "list_recount": 6,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q09 Interaction factors",
+      "category": "profile richness matters",
+      "supplied_count": 3,
+      "list_recount": null,
+      "difference": null,
+      "verification": "No participant list",
+      "membership_complete": false,
+      "membership_note": "No participant list in source"
+    },
+    {
+      "question": "Q09 Interaction factors",
+      "category": "repo engament",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "No participant list",
+      "membership_complete": false,
+      "membership_note": "No participant list in source"
+    },
+    {
+      "question": "Q10 Multiple accounts",
+      "category": "Yes",
+      "supplied_count": 28,
+      "list_recount": 28,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q10 Multiple accounts",
+      "category": "No",
+      "supplied_count": 6,
+      "list_recount": 6,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "Stack Overflow",
+      "supplied_count": 19,
+      "list_recount": 19,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "No anonymous accounts",
+      "supplied_count": 11,
+      "list_recount": 11,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "Instagram",
+      "supplied_count": 5,
+      "list_recount": 5,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "GitHub",
+      "supplied_count": 4,
+      "list_recount": 4,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "Reddit",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "Twitter",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "Discord",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "Facebook",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q11 Anonymous platforms",
+      "category": "LinkedIn",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "don't wish to associate activity with identity",
+      "supplied_count": 12,
+      "list_recount": 12,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "peer anonymity influence",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "due to the nature of the platform",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "No content creation",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Avoid linking Reddit activity to identity",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Avoid linking Twitter activity to identity",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Avoid cross-platform identification",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Avoid linking opinions to identity",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Avoid discovery through Google searches",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Avoid being linked back to identity",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Do not want to be noticed",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Avoid repercussions on Stack Overflow",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Separate online and offline identities",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "View LinkedIn profiles without revealing identity",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Limited activity on Instagram",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Limited activity on LinkedIn",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Limited activity on Stack Overflow",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Unintentional anonymity through account creation",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Not sharing information",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Showcase hobbies",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "Want others to know who is behind the account",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q12 Anonymity reasons",
+      "category": "N/A",
+      "supplied_count": 11,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "GO:2",
+      "supplied_count": 11,
+      "list_recount": 11,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "SO:3",
+      "supplied_count": 11,
+      "list_recount": 11,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "GO:1",
+      "supplied_count": 10,
+      "list_recount": 10,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "SO:2",
+      "supplied_count": 7,
+      "list_recount": 7,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "GO:3",
+      "supplied_count": 8,
+      "list_recount": 8,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "SO:1",
+      "supplied_count": 7,
+      "list_recount": 7,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "SO:4",
+      "supplied_count": 6,
+      "list_recount": 6,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "GO:4",
+      "supplied_count": 4,
+      "list_recount": 4,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "SO:5",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q13 Anonymity importance",
+      "category": "GO:5",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "LinkedIn",
+      "supplied_count": 30,
+      "list_recount": 30,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Instagram",
+      "supplied_count": 23,
+      "list_recount": 23,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Facebook",
+      "supplied_count": 10,
+      "list_recount": 10,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "GitHub",
+      "supplied_count": 8,
+      "list_recount": 8,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Snapchat",
+      "supplied_count": 6,
+      "list_recount": 6,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Twitter",
+      "supplied_count": 6,
+      "list_recount": 6,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Stack Overflow",
+      "supplied_count": 5,
+      "list_recount": 4,
+      "difference": -1,
+      "verification": "DIFFERS from supplied count",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Youtube",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Tiktok",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "No for all",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Messenger",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Imessage",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Discord",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Bereal",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q14 Real photographs",
+      "category": "Telegram",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q15 Resume profiles",
+      "category": "LinkedIn",
+      "supplied_count": 32,
+      "list_recount": 32,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q15 Resume profiles",
+      "category": "GitHub",
+      "supplied_count": 29,
+      "list_recount": 29,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q15 Resume profiles",
+      "category": "Personal Website",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "GitHub for hands on coding experience",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "GitHub for job recruitment",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "GitHub for showing technical background projects and skills",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "GitHub to portray my professional self",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "GitHub to show case history of contributions",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "GitHub to show case projects",
+      "supplied_count": 20,
+      "list_recount": 20,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "LinkedIn for job recruitment",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "LinkedIn for networking",
+      "supplied_count": 8,
+      "list_recount": 8,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "LinkedIn for self promotion",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "LinkedIn to portray my professional self",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "LinkedIn to show past experience",
+      "supplied_count": 14,
+      "list_recount": 14,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q16 Resume reasons",
+      "category": "Personal website to show case projects for recruitment",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "No",
+      "supplied_count": 17,
+      "list_recount": 17,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "Instagram",
+      "supplied_count": 12,
+      "list_recount": 12,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "Twitter",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "Youtube",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "Facebook",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "Snapchat",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "Stack Overflow",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "GitHub",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q17 Account use",
+      "category": "LinkedIn",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Github for double reviews or blind material",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Github to separate concerns personal vs work",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Instagram for pets",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Instagram for separating close circle vs generic follows",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Instagram to avoid overcrowding and separate concerns",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Instagram to separate concerns close circle vs generic follows",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Instagram to separate concerns close circle vs generic follows vs hobbies",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Instagram to show case hobbies",
+      "supplied_count": 5,
+      "list_recount": 5,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Instagram to show case hobbies and spams",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Instagram to show case hobbies for separating close circle vs generic follows",
+      "supplied_count": 2,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Twitter to separate concerns close circle vs career development",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Twitter to separate concerns close circle vs generic follows",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "Youtube because of different google accounts",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q18 Account reasons",
+      "category": "N/A",
+      "supplied_count": 17,
+      "list_recount": 17,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q19 Policy reading",
+      "category": "Neither",
+      "supplied_count": 34,
+      "list_recount": 34,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q20 Non-reading reasons",
+      "category": "confident that they are anonymized hence the policy is not impacting them",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q20 Non-reading reasons",
+      "category": "lack of alternatives even if disagree with policies",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q20 Non-reading reasons",
+      "category": "length",
+      "supplied_count": 24,
+      "list_recount": 24,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q20 Non-reading reasons",
+      "category": "need for the use of app",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q20 Non-reading reasons",
+      "category": "similarity with other platform policy",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q20 Non-reading reasons",
+      "category": "they are written not to be read",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q20 Non-reading reasons",
+      "category": "trust in the platforms",
+      "supplied_count": 3,
+      "list_recount": 3,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q20 Non-reading reasons",
+      "category": "popular and well known",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source03 Update frequency",
+      "category": "1.0",
+      "supplied_count": 17,
+      "list_recount": 17,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source03 Update frequency",
+      "category": "2.0",
+      "supplied_count": 10,
+      "list_recount": 10,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source03 Update frequency",
+      "category": "3.0",
+      "supplied_count": 4,
+      "list_recount": 4,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source03 Update frequency",
+      "category": "4.0",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source03 Update frequency",
+      "category": "5.0",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source21 SO likelihood",
+      "category": "1.0",
+      "supplied_count": 13,
+      "list_recount": 13,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source21 SO likelihood",
+      "category": "2.0",
+      "supplied_count": 9,
+      "list_recount": 9,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source21 SO likelihood",
+      "category": "3.0",
+      "supplied_count": 8,
+      "list_recount": 8,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source21 SO likelihood",
+      "category": "4.0",
+      "supplied_count": 4,
+      "list_recount": 4,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source21 SO likelihood",
+      "category": "5.0",
+      "supplied_count": 0,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source24 GH likelihood",
+      "category": "1.0",
+      "supplied_count": 10,
+      "list_recount": 10,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source24 GH likelihood",
+      "category": "2.0",
+      "supplied_count": 10,
+      "list_recount": 10,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source24 GH likelihood",
+      "category": "3.0",
+      "supplied_count": 6,
+      "list_recount": 6,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source24 GH likelihood",
+      "category": "4.0",
+      "supplied_count": 8,
+      "list_recount": 8,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source24 GH likelihood",
+      "category": "5.0",
+      "supplied_count": 0,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "GO:4",
+      "supplied_count": 15,
+      "list_recount": 15,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "SO:4",
+      "supplied_count": 14,
+      "list_recount": 14,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "GO:5",
+      "supplied_count": 9,
+      "list_recount": 9,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "SO:5",
+      "supplied_count": 8,
+      "list_recount": 8,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "SO:3",
+      "supplied_count": 10,
+      "list_recount": 10,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "GO:3",
+      "supplied_count": 7,
+      "list_recount": 7,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "SO:1",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "GO:1",
+      "supplied_count": 2,
+      "list_recount": 2,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Source29 CI likelihood",
+      "category": "GO:2",
+      "supplied_count": 1,
+      "list_recount": 1,
+      "difference": 0,
+      "verification": "Matches supplied count (list only)",
+      "membership_complete": true,
+      "membership_note": ""
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "advanced user location tracking,advanced activity tracking, collecting our information such as name, email",
+      "supplied_count": 12,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "data collection on nonmembers",
+      "supplied_count": 2,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "no accountability when you cross link platforms, data collection for advertisment",
+      "supplied_count": 3,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "sharing content is permanent, personal information gets published in the data dump",
+      "supplied_count": 6,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "third party infromation sharing for advertisement, data collection from third parties",
+      "supplied_count": 5,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "not selling my personal info",
+      "supplied_count": 5,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "not clearly mentioning why they collect our information",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "demographics information collection about gender,race",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q23 SO policy discussion",
+      "category": "N/A",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q26 GH policy discussion",
+      "category": "company accounts data are fully accessible by github , compliant with GDPR, \"manual inspection to determine violation of terms and services could have bias\", private repos actually remain private,",
+      "supplied_count": 10,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q26 GH policy discussion",
+      "category": "advanced user location tracking, advanced activity tracking",
+      "supplied_count": 8,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q26 GH policy discussion",
+      "category": "data collection from third parties, third party information sharing, data collection for advertisment",
+      "supplied_count": 13,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q26 GH policy discussion",
+      "category": "tracking using cookies",
+      "supplied_count": 3,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q26 GH policy discussion",
+      "category": "demographics information collection about gender,race",
+      "supplied_count": 1,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q26 GH policy discussion",
+      "category": "not clearly mentioning why they collect our information, \"not clearly specifified why they share our info with third parties\"",
+      "supplied_count": 2,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Q26 GH policy discussion",
+      "category": "collecting our data for technical support, use of data minimization",
+      "supplied_count": 2,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_1",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_2",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_3",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_4",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_5",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_6",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_7",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_8",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_9",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_10",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_11",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_12",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source27 SO rankings",
+      "category": "SO_13",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_1",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_2",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_3",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_4",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_5",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_6",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_7",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_8",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_9",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    },
+    {
+      "question": "Source29 GH rankings",
+      "category": "GH_10",
+      "supplied_count": null,
+      "list_recount": null,
+      "difference": null,
+      "verification": "Unresolved name token(s)",
+      "membership_complete": false,
+      "membership_note": "Incomplete or unresolved membership in source"
+    }
+  ]
+}
