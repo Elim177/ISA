@@ -1,0 +1,16 @@
+﻿Q01-04 Sample,,,
+Code / category,Supplied count,Unique IDs,Participant IDs
+Role: Undergraduate students,8,8,P17; P01; P04; P05; P27; P15; P24; P26
+Role: Graduate students,19,19,P16; P31; P12; P22; P11; P14; P32; P33; P20; P34; P29; P23; P02; P08; P13; P18; P30; P21; P25
+Role: Professional roles,7,7,P10; P09; P06; P07; P03; P28; P19
+Experience: 0-1 years,17,17,P10; P01; P12; P22; P09; P04; P11; P32; P05; P33; P34; P29; P03; P23; P02; P24; P25
+Experience: 2-3 years,7,7,P16; P31; P06; P28; P19; P30; P26
+Experience: 1-2 years,5,5,P17; P14; P07; P13; P18
+Experience: 4-5 years,1,1,P08
+Experience: 3-4 years,3,3,P27; P15; P21
+Experience: More than five years,1,1,P20
+Age: 25-34,12,12,P10; P01; P12; P11; P14; P29; P07; P03; P28; P19; P21; P25
+Age: 18-24,19,19,P17; P31; P22; P04; P32; P05; P33; P20; P34; P27; P23; P02; P15; P08; P13; P24; P18; P30; P26
+Age: 35-44,3,3,P16; P09; P06
+Gender: Female,15,15,P16; P17; P10; P01; P04; P11; P07; P03; P02; P15; P08; P28; P18; P26; P25
+Gender: Male,19,19,P31; P12; P22; P09; P14; P32; P05; P33; P20; P34; P06; P29; P27; P23; P13; P24; P19; P30; P21
