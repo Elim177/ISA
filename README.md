@@ -24,13 +24,18 @@ The Excel file retains the original question-block colors and provides these col
 - Supplied count: 
 - List recount:
 
+The CSV file retains provides these columns:
+- Code / category:
+- Unique count: 
+- Particiapant ID:
+
 ## Repository contents
 
 | File or folder | Description |
 | --- | --- |
 | `Aggregate_Codebook_CSVs/` | CSV exports of the aggregate codebook without participant names or IDs. Each CSV corresponds to one worksheet and contains response categories and aggregate counts. |
-| `Deidentified_Aggregate_Codebook_FV_CSVs/` | CSV exports of the final-version deidentified codebook. Each CSV corresponds to one worksheet. Participant membership is represented using pseudonymous IDs where provided. |
-| `Aggregate_Codebook_No_Participant_IDs.json` | Machine-readable aggregate codebook containing response categories, supplied counts, available recounts, and verification information. Participant names and IDs are excluded. |
+| `Deidentified_Aggregate_Codebook_FV_CSVs/` | CSV exports of the final-version deidentified codebook. Each CSV corresponds to one worksheet. Participant membership is represented using pseudonymous IDs where provided. For Example : P01,P02..... |
+| `Aggregate_Codebook_No_Participant_IDs.json` | JSON aggregate codebook containing response categories, supplied counts, available recounts, and verification information. Participant names and IDs are excluded. |
 | `Aggregate_Codebook_No_Participant_IDs.xlsx` | Excel version of the aggregate codebook without participant names or IDs. Questions or question blocks appear on separate worksheets, retaining the original color scheme. |
 | `GitHub General Privacy Statement_PD.pdf` | GitHub privacy-policy material used during the interview study’s privacy-policy discussion. |
 | `Interview_Questions_and_Guide.docx` | Editable interview questions and guide, including questions about anonymity, identifying information, professional visibility, account use, and privacy policies. |
@@ -39,7 +44,7 @@ The Excel file retains the original question-block colors and provides these col
 | `README.md` | Overview of the repository, its files, and guidance for interpreting the study materials. |
 | `Rank_GO.pdf` | GitHub privacy-policy statements presented for ranking during the contextual integrity portion of the interview. `GO` refers to GitHub in the original study materials. |
 | `Rank_SO.pdf` | Stack Overflow privacy-policy statements presented for ranking during the contextual integrity portion of the interview. `SO` refers to Stack Overflow. |
-| `Supplementary_Survey_Questions.docx` | Editable version of the five supplementary survey questions and response options reported in thesis Table 3.3. Topics include platform membership, question posting, perceived anonymity, and gender. |
+| `Supplementary_Survey_Questions.docx` | Editable version of the five supplementary survey questions and response options reported the CHASE paper Topics include platform membership, question posting, perceived anonymity, and gender. |
 | `Supplementary_Survey_Questions.pdf` | PDF version of the supplementary survey questions and response options for convenient viewing. |
 
 ## Interpreting the codebook
