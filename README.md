@@ -53,6 +53,6 @@ The CSV file retains provides these columns:
 - Responses could receive multiple codes, so counts within a question may overlap.
 - **Supplied count** refers to the count recorded in the source aggregate codebook.
 - **List recount** refers to the number of unique participants identified in the available source membership list.
-- Supplied counts and recounts may differ. A blank recount indicates unavailable or unresolved membership information and should not be interpreted as zero.
+- Supplied counts and recounts may differ.
 - CSV files preserve data but do not retain Excel colors or formatting.
-- Privacy-policy documents reflect the materials used during the study and may differ from current platform policies.
+- Privacy-policy documents reflect the materials used during the study.
